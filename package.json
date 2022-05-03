@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ilgianlu/globmod#readme",
   "dependencies": {
-    "config": "^3.3.7"
+    "config": "^3.3.7",
+    "mod1": "github:ilgianlu/mod1#2a8ad1a8ac335bb0c8d5ec405206881f047dc37e"
   }
 }
