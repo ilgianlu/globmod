@@ -1,6 +1,7 @@
 [submodule "mod1"]
 	path = mod1
 	url = git@github.com:ilgianlu/mod1.git
+	branch = beta
 [submodule "mod2"]
 	path = mod2
 	url = git@github.com:ilgianlu/mod2.git
