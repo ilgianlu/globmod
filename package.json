@@ -1,0 +1,22 @@
+{
+  "name": "globmod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilgianlu/globmod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilgianlu/globmod/issues"
+  },
+  "homepage": "https://github.com/ilgianlu/globmod#readme",
+  "dependencies": {
+    "config": "^3.3.7"
+  }
+}
